@@ -1,0 +1,29 @@
+E- commerce website chatbot
+
+-Good Morning , good evening, good afternoon, hello, hii
+-Hello, I am a E-commerce chatbot, I am showing you different
+products, offers, and also adding your orders to the cart.
+ How may I help you?
+-->featured products, latest products, all products, offers
+
+--> red top, pink top, white skirt
+-you have chosen pink top, it costs $349
+-I want add products to the cart
+-->can you provide me with the products you have selected
+-->pink top
+-->how many do you want
+-->2
+-we can accept COD, credit card and debit card as of now.
+-->credit card
+-->your selected product has been added to the cart. you can 
+pay the bill using credit card. do visit again.
+
+
+intents - greetings, enquiry, order, specials, items, payment
+
+
+
+The link to go to google is: click <a  target="_blank" href="https://google.com.br">Google</a>.<br/>
+
+
+
